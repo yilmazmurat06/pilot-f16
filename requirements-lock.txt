@@ -1,0 +1,7 @@
+# Direct dependencies are intentionally exact-pinned for M00 repeatability.
+gymnasium==1.2.0
+jsbsim==1.3.1
+numpy==2.2.6
+pytest==8.4.1
+stable-baselines3==2.7.0
+

@@ -173,6 +173,15 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# pilot-f16 local runtime
+.venv/
+artifacts/
+runs/
+.cache/
+external/
+
+
+
 # Cursor  
 #  Cursor is an AI-powered code editor.`.cursorignore` specifies files/directories to 
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
